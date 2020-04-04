@@ -1,4 +1,4 @@
-baseurl = "https://ykth.github.io/"
+baseurl = "https://ykth.github.io/blog/"
 title = "yk.th Blog"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja-jp"
